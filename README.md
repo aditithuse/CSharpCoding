@@ -1,3 +1,3 @@
 # CSharpCoding
 
-Problem solving by C#
+Problem solving in C#
