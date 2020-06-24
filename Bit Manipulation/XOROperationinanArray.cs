@@ -6,12 +6,8 @@ public class Solution {
         
         for(int i=1;i<n;i++){
             nums[i]=start+2*i;
-            xor=nums[i]^xor;
-            
+            xor=nums[i]^xor;            
         }
-        
-       
-        
         return xor;
     }
 }
